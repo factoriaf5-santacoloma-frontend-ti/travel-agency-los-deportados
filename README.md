@@ -1,4 +1,5 @@
 # 🧳 Travel Cost Calculator
+![bannerjorge](https://github.com/user-attachments/assets/47ffc8cf-bcc6-4ba2-8115-1f839266ddc8)
 
 Bienvenido al proyecto **Travel Cost Calculator**, una aplicación sencilla en JavaScript para calcular el coste total de un viaje. Esta herramienta toma en cuenta el número de noches de hotel, el destino del vuelo y los días de alquiler de un coche para ofrecer una estimación del coste total. Es un proyecto ideal para aprender conceptos básicos de programación, incluyendo funciones, estructuras de control y manipulación de datos en JavaScript.
 
@@ -26,7 +27,7 @@ Ingresa el número de días de alquiler del coche.
 
 4. El resultado se mostrará tanto en la consola del navegador como en un cuadro de alerta.
 
-🧩 **Descripción del Código**
+## 🧩 Descripción del Código
 El código se organiza en funciones para mantenerlo modular y facilitar su comprensión. A continuación se detalla la funcionalidad de cada parte:
 
 1. Calcular el coste del hotel
@@ -117,6 +118,8 @@ console.log("El coste del coche es: " + costeCoche + "€");
 let costeTotalViaje = calcularCosteViaje(noches, ciudad, diasAlquiler);
 alert("El coste total de tu viaje es: " + costeTotalViaje + "€");
  ```
+![8](https://github.com/user-attachments/assets/abfab039-65ef-4830-b007-00065d2cc749)
+
 
 🌟 Próximas Funcionalidades
 Formulario web: Reemplazar los prompt() por un formulario en HTML para mejorar la interfaz de usuario.
