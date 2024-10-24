@@ -1,4 +1,4 @@
-# 🧳 Travel Cost Calculator
+# 🧳 travel-agency (Travel Cost Calculator)
 ![bannerjorge](https://github.com/user-attachments/assets/47ffc8cf-bcc6-4ba2-8115-1f839266ddc8)
 
 Bienvenido al proyecto **Travel Cost Calculator**, una aplicación sencilla en JavaScript para calcular el coste total de un viaje. Esta herramienta toma en cuenta el número de noches de hotel, el destino del vuelo y los días de alquiler de un coche para ofrecer una estimación del coste total. Es un proyecto ideal para aprender conceptos básicos de programación, incluyendo funciones, estructuras de control y manipulación de datos en JavaScript.
